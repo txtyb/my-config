@@ -1,0 +1,18 @@
+theme = "monokai_pro_machine"
+
+[editor]
+line-number = "absolute"
+auto-completion = true
+true-color = true
+cursorline = true
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.file-picker]
+hidden = false
+git-ignore = false
+
+[editor.indent-guides]
+render = true
+
